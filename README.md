@@ -1,4 +1,4 @@
-Here is an soft P10Schedule for our P10Project. My realization presents a simple editor with an included encoder for transport shedules.
+Here is an soft P10Schedule for our P10Project. My realization presents a simple editor with an included encoder for transport shedules. Updates will be upload here...
 
 ![image](https://github.com/MumuCarrot/P10Schedule/assets/138333895/0f373a1f-4c3a-4768-93fc-f7949d9b9118)
 
